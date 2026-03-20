@@ -87,4 +87,4 @@ python run.py
 
 ## Visualization
 
-![](D:\科研\AFppisave\展开\hetero\8G4K_temp.png)
+![](8G4K_temp.png)
