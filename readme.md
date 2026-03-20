@@ -22,7 +22,7 @@ openfold/
 │   │   └── feature_processing_multimer.py  # Modification: skip MSA pairing
 │   │
 │   └── model/      
-│       ├── embedders.py # Modification: save pair representations from each Evoformer    layer 
+│       ├── embedders.py # Modification: save pair representations from each Evoformer layer 
 │       └── model.py  # Modification: return all pair representations as a list
 │
 └── requirements.txt  # Modification: save the pair representations list as a .npy file 
