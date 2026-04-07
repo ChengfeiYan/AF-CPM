@@ -95,8 +95,8 @@ Modeling of the heterodimer 8G4K based on MSA
 
 ## Reference
 
-Dissecting the Black Box of AlphaFold in Protein-Protein Complex Assembly
-Shuangjun Li, Zichun Mu, Chengfei Yan
+Dissecting the Black Box of AlphaFold in Protein-Protein Complex Assembly.
+Shuangjun Li, Zichun Mu, Chengfei Yan.
 bioRxiv 2026.04.03.716280; doi: https://doi.org/10.64898/2026.04.03.716280
 
 If you meet any problem in implementing this program, please contact chengfeiyan@hust.edu.cn
